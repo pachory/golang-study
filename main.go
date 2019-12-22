@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
-	"rsc.io/quote"
+	"golang-study/gosample"
 )
 
 func main() {
-	fmt.Println(quote.Opt())
+	fmt.Println(gosample.Message)
 }
