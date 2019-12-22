@@ -1,3 +1,4 @@
+github.com/pachory/golang-study v0.0.0-20191221175015-a7e9d78e3146 h1:WMVQQWALAL/GF8gGTZ7ILvugqqX3+AvVr5MvRO2fh9w=
 golang.org/x/text v0.0.0-20170915032832-14c0d48ead0c h1:qgOY6WgZOaTkIIMiVjBQcw93ERBE4m30iBm00nkL0i8=
 golang.org/x/text v0.0.0-20170915032832-14c0d48ead0c/go.mod h1:NqM8EUOU14njkJ3fqMW+pc6Ldnwhi/IjpwHt7yyuwOQ=
 golang.org/x/text v0.3.2 h1:tW2bmiBqwgJj/UpqtC8EpXEZVYOwU0yG4iWbprSVAcs=
