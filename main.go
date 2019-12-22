@@ -1,10 +1,9 @@
 package main
 
 import (
-	"fmt"
-	"github.com/pachory/golang-study/gosample"
+	"golang-study/chapter2"
 )
 
 func main() {
-	fmt.Println(gosample.Message)
+	chapter2.Exec()
 }
