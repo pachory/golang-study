@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	chapter2.Exec()
+	chapter2.Handler()
 }
